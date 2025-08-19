@@ -40,3 +40,18 @@ function actualizarListadeAmigos() {
     listaDeAmigos.innerHTML = contenidoHTML;
 }
 
+function sortearAmigo() {
+    //Genero un indice aleatorio
+    let indiceAlatorio = Math.floor(Math.random()*amigos.length);
+
+    //Limpiamos la lista actual antes de agregar nuevos elementos
+    let listaDeAmigos = document.getElementById("listaAmigos");
+    listaDeAmigos.innerHTML = '';
+
+    //Uso el indice aleatorio para selecionar un nombre
+    let selecionaLu = document.getElementById("resultado");
+    return resultado.innerHTML = `<li>¡${amigos[indiceAlatorio]}!</li>`;
+    console.log("indiceAlatorio");
+
+ 
+}
