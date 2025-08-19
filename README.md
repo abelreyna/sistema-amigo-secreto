@@ -36,23 +36,6 @@ https://abelreyna.github.io/sistema-amigo-secreto/
 ## 🚀 ¿Cómo usarlo?
 
 1.  **Ingresa los nombres:** Escribe los nombres de los participantes en el campo de texto.
-2.  **Presiona el botón:** Haz clic en el botón de "Sortear" (o similar).
+2.  **Presiona el botón:** Haz clic en el botón de "Sortear Amigo".
 3.  **¡Descubre al Amigo Secreto!** La aplicación te mostrará el nombre del afortunado ganador.
 
----
-
-## 👩‍💻 Contribuciones
-
-Si tienes ideas para mejorar el proyecto o quieres corregir algún error, ¡tus contribuciones son bienvenidas! Sigue estos pasos:
-
-1.  Haz un `fork` del repositorio.
-2.  Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3.  Haz tus cambios y `commit` (`git commit -am 'feat: Agrega una nueva función'`).
-4.  Empuja al `origin` (`git push origin feature/nueva-funcionalidad`).
-5.  Crea un nuevo **Pull Request**.
-
----
-
-## 📜 Licencia
-
-Este proyecto está bajo la licencia [MIT](https://opensource.org/licenses/MIT).
