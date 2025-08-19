@@ -19,6 +19,11 @@ El proyecto fue construido con las siguientes tecnologías:
 * **JavaScript:** Para la lógica del sorteo aleatorio.
 
 ---
+## 📸 Demo
+![amigosecreto](https://github.com/user-attachments/assets/40f8f9c2-a0d1-49cf-86b3-1008f8b3ed2c)
+
+https://abelreyna.github.io/sistema-amigo-secreto/
+---
 
 ## ✨ Características Principales
 
